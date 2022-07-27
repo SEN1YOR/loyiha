@@ -1,0 +1,127 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2E2E2C;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+
+}
+.sariq{
+    width: 500px;
+    height: 600px;
+    background-color: #F7DD4A;
+    position: relative;
+    
+    
+    
+}
+h1{
+  font-family: sans-serif;
+font-size: 24px;
+font-weight: 100;
+
+}
+.blok{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px;
+}
+a{
+    color: #2E2E2C;
+     text-decoration: none;
+     opacity: 0.5;
+}
+a:hover{
+    opacity: 1;
+
+}
+.oq{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    left: 70px;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.589);
+    padding: 40px 50px 10px;
+    position: relative;
+
+}
+.for1{
+    width: 400px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    /* margin-top: 50px; */
+    color: rgba(0, 0, 0, 0.562);
+    outline-style: none;
+}
+.labil1{
+    
+    padding-top: 40px;
+    color: rgba(0, 0, 0, 0.562);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.for2{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: rgba(0, 0, 0, 0.562);
+    width: 200px;
+    outline-style: none;
+    
+
+
+}
+.for3{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: rgba(0, 0, 0, 0.562);
+    width: 200px;
+    outline-style: none;
+    
+}
+.parent{
+    display: flex;
+    margin-top: 40px;
+
+}
+.rasm{
+    background-image: url(./111.jpg);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: -30px;
+}
+.a1{
+    padding-top: 40px;
+    color: rgba(0, 0, 0, 0.562);
+    font-size: 16px;
+    text-transform: uppercase;
+
+}
+.a2{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.562);
+}
+.h2{
+    font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  margin-left: 350px;
+  margin-top: 25px;
+  justify-content: center;
+  justify-items: center;
+  
+  }
